@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669813453219",
+    "firebase_url": "https://chatter-65201.firebaseio.com",
+    "project_id": "chatter-65201",
+    "storage_bucket": "chatter-65201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669813453219:android:3016eeee97f460d3",
+        "android_client_info": {
+          "package_name": "pranav.hippargi.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669813453219-bpthj69340hg3cooag4vpvlp1g3c8l31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pranav.hippargi.chatter",
+            "certificate_hash": "7a4eab7ea160de5d91681d1070819ddb2b68d1a4"
+          }
+        },
+        {
+          "client_id": "669813453219-uet9jc26mm1k71vcljf387lqlgpf5k56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvo6ZONYelWsuaA0tsVdV5YnUUhuphIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669813453219-uet9jc26mm1k71vcljf387lqlgpf5k56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
